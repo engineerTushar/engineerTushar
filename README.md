@@ -3,7 +3,7 @@
 <h3 align="center">🚀 CSE Student | Web Developer 💻 | Python, HTML, AI & Tech Enthusiast 🤖</h3>
 
 <p align="center">
-  <img src="https://github.com/engineerTushar/engineerTushar/blob/main/banner.gif?raw=true" alt="Tushar Kurane Banner" />
+  <img src="https://github.com/engineerTushar/engineerTushar/blob/main/back.gif?raw=true" alt="Tushar Kurane Banner" />
 </p>
 
 <p align="center">
